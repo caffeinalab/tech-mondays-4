@@ -1,4 +1,0 @@
-#Tue Jan 28 14:47:36 CET 2020
-base.0=/Users/vincent.defeo/Workspace/Personal/tech-mondays/tech-mondays-4/Tech Mondays 4/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex
