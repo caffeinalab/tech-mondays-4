@@ -7,7 +7,7 @@ public class TextScript : MonoBehaviour
 {
     int Count = 0;
     string[] Copy = new string[]{
-        "Se lo bevi a colazione, diventerai un campione", 
+        "Se lo bevi a colazione, poi diventerai un campione", 
         "Sono morti sono vivi, per prenderli li aspiri",
         "Se l'accendi senti i suoni, è la radio di ..."
     };
@@ -27,7 +27,7 @@ public class TextScript : MonoBehaviour
         if (treasure < 3) {
             text.text = Copy[treasure];
         } else {
-            text.text = "BRAVISSIMO!!!!";
+            text.text = "HAI VINTO!!!";
         }
     }
     // Start is called before the first frame update
