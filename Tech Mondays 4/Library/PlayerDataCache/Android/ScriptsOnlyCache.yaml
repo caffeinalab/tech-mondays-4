@@ -13,6 +13,7 @@ ScriptsOnlyBuild:
     - UnityEngine.EventSystems.StandaloneInputModule
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Outline
     - UnityEngine.UI.Text
     Vuforia.UnityExtensions.dll:
     - Vuforia.ImageTargetBehaviour
@@ -61,6 +62,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11130}
     - Class: 114
+      Script: {instanceID: 11418}
+    - Class: 114
       Script: {instanceID: 11470}
     - Class: 114
       Script: {instanceID: 12684}
@@ -85,10 +88,6 @@ ScriptsOnlyBuild:
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
-      Script: {instanceID: 0}
-    - Class: 135
-      Script: {instanceID: 0}
-    - Class: 136
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}

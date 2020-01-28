@@ -7,9 +7,9 @@ public class TextScript : MonoBehaviour
 {
     int Count = 0;
     string[] Copy = new string[]{
-        "Se lo beve a colazione l'amico tuo Fiadone", 
-        "Come disse Giovanelli, Non entrate qui fratelli",
-        "La mattina che passione, con la radio di Mangione"
+        "Se lo bevi a colazione, diventerai un campione", 
+        "Sono morti sono vivi, per prenderli li aspiri",
+        "Se l'accendi senti i suoni, è la radio di ..."
     };
 
     public Text text;
